@@ -89,11 +89,6 @@ RETURN IF(ISBLANK(LowStock), 0, LowStock)
 ## 📬 Contact
 
 For feedback or questions, reach out via:
-- ✉ Email: your.email@example.com
-- 📁 GitHub: [Your GitHub Profile](https://github.com/yourprofile)
+- ✉ Email: prakritisantra09.com
+- 📁 GitHub: https://github.com/prakritisantra09
 
----
-
-🔁 *Clone this Repo*
-```bash
-git clone https://github.com/yourusername/inventory-stock-dashboard.git
