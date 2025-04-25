@@ -1,0 +1,1 @@
+The Inventory & Stock Analysis Dashboard is a data-driven solution designed to monitor and manage warehouse inventory efficiently. Built using Microsoft Excel and Power BI, it provides real-time insights into stock levels, reorder alerts, supplier performance, and inventory movement. This tool helps businesses make informed decisions and optimize stock handling processes.
