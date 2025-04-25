@@ -43,3 +43,57 @@ VAR LowStock = COUNTROWS(
     )
 )
 RETURN IF(ISBLANK(LowStock), 0, LowStock)
+
+## 📸 Key Visuals
+
+### 📈 Dashboard Overview
+<img src="./screenshots/dashboard_overview.png" width="600">
+
+- Bar chart for *Stock Quantity by Product*
+- Pie chart showing *Reorder Level vs Stock*
+- Low stock alert KPI
+- Lead Time visualization
+
+### 📊 Inventory Data in Excel
+<img src="./screenshots/excel_data_sheet.png" width="600">
+
+- Manages stock, reorder levels, and supplier info.
+- Contains real-time updates feeding into Power BI.
+
+## 🔄 How It Works
+
+1. 📥 Warehouse staff updates stock levels in *Excel*.
+2. ⚡ Power BI auto-refreshes using live Excel data.
+3. 🔔 Low stock alerts trigger when inventory drops below reorder level.
+4. 📊 Dashboards update in real-time to reflect stock movement and supplier metrics.
+
+## 📌 Features
+
+- 📉 Stock Quantity Trend
+- 📦 Reorder Alerts
+- ⏱ Lead Time Analysis
+- 👨‍💼 Supplier-based Segmentation
+- 🔁 Monthly/Quarterly Stock Patterns
+
+## ✅ Requirements
+
+- Microsoft Power BI Desktop
+- Microsoft Excel (2016 or newer)
+
+## 💡 Use Cases
+
+- Small warehouse management
+- Retail inventory tracking
+- Supply chain optimization reports
+
+## 📬 Contact
+
+For feedback or questions, reach out via:
+- ✉ Email: your.email@example.com
+- 📁 GitHub: [Your GitHub Profile](https://github.com/yourprofile)
+
+---
+
+🔁 *Clone this Repo*
+```bash
+git clone https://github.com/yourusername/inventory-stock-dashboard.git
