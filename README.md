@@ -47,7 +47,7 @@ RETURN IF(ISBLANK(LowStock), 0, LowStock)
 ## 📸 Key Visuals
 
 ### 📈 Dashboard Overview
-<img src="./screenshots/dashboard_overview.png" width="600">
+
 
 - Bar chart for *Stock Quantity by Product*
 - Pie chart showing *Reorder Level vs Stock*
@@ -55,7 +55,6 @@ RETURN IF(ISBLANK(LowStock), 0, LowStock)
 - Lead Time visualization
 
 ### 📊 Inventory Data in Excel
-<img src="./screenshots/excel_data_sheet.png" width="600">
 
 - Manages stock, reorder levels, and supplier info.
 - Contains real-time updates feeding into Power BI.
